@@ -121,6 +121,7 @@ Observations:
 CNN + LSTM | ~5.3 seconds |
 CNN + Self-Attention | ~5.4 seconds |
 
+
 Observations:
 
 • Both models have **similar training time**
@@ -136,6 +137,17 @@ The following comparisons were generated during experimentation:
 1. Training Time vs Epoch
 2. Validation Accuracy vs Epoch
 ```
+<p align="center">
+  <img src="Time.png" width="600">
+</p>
+
+<p align="center">
+  <img src="Validation_Accuracy.png" width="600">
+</p>
+
+<p align="center">
+  <img src="Training_Loss.png" width="600">
+</p>
 
 These visualizations help analyze:
 
